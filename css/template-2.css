@@ -306,7 +306,7 @@ header nav .search i {
 }
 .services .srv-box h3 {
     margin-bottom: 30px;
-    color: var(--main-color);
+    color: black;
 }
 .services .srv-box p {
     line-height: 2;
