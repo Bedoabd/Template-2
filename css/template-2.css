@@ -22,6 +22,7 @@ html {
 }
 body {
     font-family: 'Open Sans', sans-serif;
+    text-transform: capitalize;
 }
 ul {
     list-style: none;
